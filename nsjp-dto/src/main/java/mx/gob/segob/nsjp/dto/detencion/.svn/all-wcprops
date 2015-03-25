@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/detencion
+END
+DireccionDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/detencion/DireccionDTO.java
+END
+PertenenciaDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/detencion/PertenenciaDTO.java
+END
+CentroDetencionDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/detencion/CentroDetencionDTO.java
+END
+DetencionWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/detencion/DetencionWSDTO.java
+END
