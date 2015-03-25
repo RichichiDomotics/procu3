@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/nsjp-comun" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/nsjp-delegate" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/nsjp-dto" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/nsjp-mail" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/nsjp-modelo" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/nsjp-persistencia" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/nsjp-servicios-api" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/nsjp-servicios-impl" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/nsjp-web" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/nsjp-ws" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/nsjp-wsclient" vcs="svn" />
+  </component>
+</project>

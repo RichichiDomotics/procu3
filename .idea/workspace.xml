@@ -1,0 +1,1719 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="nsjp-web" />
+      <artifact name="nsjp-web archive" />
+      <artifact name="nsjp-web:war" />
+      <artifact name="nsjp-web:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="b2fb613c-b63c-487d-afe9-bde0b133b11a" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/resources/images/back_acor_ad.jpg" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/resources/images/back_acor_ad.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-comun" afterPath="$PROJECT_DIR$/nsjp-comun" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-delegate" afterPath="$PROJECT_DIR$/nsjp-delegate" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-dto" afterPath="$PROJECT_DIR$/nsjp-dto" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-mail" afterPath="$PROJECT_DIR$/nsjp-mail" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-modelo" afterPath="$PROJECT_DIR$/nsjp-modelo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/resources/images/top_gral.jpg" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/resources/images/top_gral.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/expediente/impl/ActualizarCarpetaDeInvestigacionServiceImpl.java" afterPath="$PROJECT_DIR$/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/expediente/impl/ActualizarCarpetaDeInvestigacionServiceImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/estatusmandamiento/ActualizarEstatusMandamientoInstitucionalExporter_ActualizarEstatusMandamientoInstitucionalExporterImplPort_Client.java" afterPath="$PROJECT_DIR$/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/estatusmandamiento/ActualizarEstatusMandamientoInstitucionalExporter_ActualizarEstatusMandamientoInstitucionalExporterImplPort_Client.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/expediente/impl/AdministrarNumeroExpedienteServiceImpl.java" afterPath="$PROJECT_DIR$/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/expediente/impl/AdministrarNumeroExpedienteServiceImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/objeto/AeronaveWSDTO.java" afterPath="$PROJECT_DIR$/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/objeto/AeronaveWSDTO.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/caso/impl/AsignarNumeroCasoServiceImpl.java" afterPath="$PROJECT_DIR$/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/caso/impl/AsignarNumeroCasoServiceImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/expdiente/action/AsignarNumeroDeExpedienteAction.java" afterPath="$PROJECT_DIR$/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/expdiente/action/AsignarNumeroDeExpedienteAction.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/expediente/AsignarNumeroExpedienteService.java" afterPath="$PROJECT_DIR$/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/expediente/AsignarNumeroExpedienteService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/expediente/impl/AsignarNumeroExpedienteServiceImpl.java" afterPath="$PROJECT_DIR$/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/expediente/impl/AsignarNumeroExpedienteServiceImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/atencionTempranaPenal/action/AtencionTempranaPenalAction.java" afterPath="$PROJECT_DIR$/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/atencionTempranaPenal/action/AtencionTempranaPenalAction.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/expediente/impl/BuscarExpedienteServiceImpl.java" afterPath="$PROJECT_DIR$/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/expediente/impl/BuscarExpedienteServiceImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/caso/CasoDAO.java" afterPath="$PROJECT_DIR$/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/caso/CasoDAO.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/caso/impl/CasoDAOImpl.java" afterPath="$PROJECT_DIR$/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/caso/impl/CasoDAOImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-persistencia/src/test/java/mx/gob/segob/nsjp/dao/test/caso/impl/CasoDAOImplTest.java" afterPath="$PROJECT_DIR$/nsjp-persistencia/src/test/java/mx/gob/segob/nsjp/dao/test/caso/impl/CasoDAOImplTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-mail/src/main/java/mx/gob/segob/nsjp/model/ConfCorreo.java" afterPath="$PROJECT_DIR$/nsjp-mail/src/main/java/mx/gob/segob/nsjp/model/ConfCorreo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-comun/src/main/java/mx/gob/segob/nsjp/comun/util/ConsecutivosUtil.java" afterPath="$PROJECT_DIR$/nsjp-comun/src/main/java/mx/gob/segob/nsjp/comun/util/ConsecutivosUtil.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/caso/action/ConsultaAction.java" afterPath="$PROJECT_DIR$/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/caso/action/ConsultaAction.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/involucrado/impl/ConsultarIndividuoServiceImpl.java" afterPath="$PROJECT_DIR$/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/involucrado/impl/ConsultarIndividuoServiceImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultartribunalespordistrito/ConsultarTribunalesPorDistritoServiceExporter_ConsultarTribunalesPorDistritoServiceExporterImplPort_Client.java" afterPath="$PROJECT_DIR$/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultartribunalespordistrito/ConsultarTribunalesPorDistritoServiceExporter_ConsultarTribunalesPorDistritoServiceExporterImplPort_Client.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/expediente/ConsultarTurnoAtencionService.java" afterPath="$PROJECT_DIR$/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/expediente/ConsultarTurnoAtencionService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/expediente/impl/ConsultarTurnoAtencionServiceImpl.java" afterPath="$PROJECT_DIR$/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/expediente/impl/ConsultarTurnoAtencionServiceImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-comun/src/main/java/mx/gob/segob/nsjp/comun/util/DateUtils.java" afterPath="$PROJECT_DIR$/nsjp-comun/src/main/java/mx/gob/segob/nsjp/comun/util/DateUtils.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/infra/impl/DefensoriaClienteServiceImpl.java" afterPath="$PROJECT_DIR$/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/infra/impl/DefensoriaClienteServiceImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/expediente/DelitoWSDTO.java" afterPath="$PROJECT_DIR$/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/expediente/DelitoWSDTO.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/avisodetencion/impl/EnviarAvisoDetencionServiceImpl.java" afterPath="$PROJECT_DIR$/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/avisodetencion/impl/EnviarAvisoDetencionServiceImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviarcarpetainvestigacion/EnviarCarpetaDeInvestigacionExporter_EnviarCarpetaDeInvestigacionExporterImplPort_Client.java" afterPath="$PROJECT_DIR$/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviarcarpetainvestigacion/EnviarCarpetaDeInvestigacionExporter_EnviarCarpetaDeInvestigacionExporterImplPort_Client.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/expediente/impl/EnviarCarpetaDeInvestigacionServiceImpl.java" afterPath="$PROJECT_DIR$/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/expediente/impl/EnviarCarpetaDeInvestigacionServiceImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/persona/action/EnviarCarpetaInvestigacionAction.java" afterPath="$PROJECT_DIR$/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/persona/action/EnviarCarpetaInvestigacionAction.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviardocumentoincumplimientomedida/EnviarDocumentoIncumplimientoMedidaExporter_EnviarDocumentoIncumplimientoMedidaExporterImplPort_Client.java" afterPath="$PROJECT_DIR$/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviardocumentoincumplimientomedida/EnviarDocumentoIncumplimientoMedidaExporter_EnviarDocumentoIncumplimientoMedidaExporterImplPort_Client.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/expediente/impl/ExpedienteDAOImpl.java" afterPath="$PROJECT_DIR$/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/expediente/impl/ExpedienteDAOImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-delegate/src/main/java/mx/gob/segob/nsjp/delegate/expediente/ExpedienteDelegate.java" afterPath="$PROJECT_DIR$/nsjp-delegate/src/main/java/mx/gob/segob/nsjp/delegate/expediente/ExpedienteDelegate.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-delegate/src/main/java/mx/gob/segob/nsjp/delegate/expediente/impl/ExpedienteDelegateImpl.java" afterPath="$PROJECT_DIR$/nsjp-delegate/src/main/java/mx/gob/segob/nsjp/delegate/expediente/impl/ExpedienteDelegateImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/expediente/ExpedienteWSDTO.java" afterPath="$PROJECT_DIR$/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/expediente/ExpedienteWSDTO.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviarcarpetainvestigacion/ExpedienteWSDTO.java" afterPath="$PROJECT_DIR$/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviarcarpetainvestigacion/ExpedienteWSDTO.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/infra/impl/transform/sentencia/ExpedienteWSDTOTransformer.java" afterPath="$PROJECT_DIR$/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/infra/impl/transform/sentencia/ExpedienteWSDTOTransformer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-comun/src/main/java/mx/gob/segob/nsjp/comun/enums/forma/Formas.java" afterPath="$PROJECT_DIR$/nsjp-comun/src/main/java/mx/gob/segob/nsjp/comun/enums/forma/Formas.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/graficacion/GraficaSeguimientoMedidasCautelaresService.java" afterPath="$PROJECT_DIR$/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/graficacion/GraficaSeguimientoMedidasCautelaresService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/hecho/action/IngresarHechosAction.java" afterPath="$PROJECT_DIR$/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/hecho/action/IngresarHechosAction.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/persona/action/IngresarIndividuoAction.java" afterPath="$PROJECT_DIR$/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/persona/action/IngresarIndividuoAction.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/involucrado/InvolucradoDTO.java" afterPath="$PROJECT_DIR$/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/involucrado/InvolucradoDTO.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/involucrado/InvolucradoWSDTO.java" afterPath="$PROJECT_DIR$/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/involucrado/InvolucradoWSDTO.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviarcarpetainvestigacion/InvolucradoWSDTO.java" afterPath="$PROJECT_DIR$/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviarcarpetainvestigacion/InvolucradoWSDTO.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudaudiencia/InvolucradoWSDTO.java" afterPath="$PROJECT_DIR$/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudaudiencia/InvolucradoWSDTO.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/Login.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/Login.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/enable/moreliapj/MoreliaBridgePJ.java" afterPath="$PROJECT_DIR$/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/enable/moreliapj/MoreliaBridgePJ.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-comun/src/main/java/mx/gob/segob/nsjp/comun/excepcion/NSJPNegocioException.java" afterPath="$PROJECT_DIR$/nsjp-comun/src/main/java/mx/gob/segob/nsjp/comun/excepcion/NSJPNegocioException.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-delegate/src/main/java/mx/gob/segob/nsjp/delegate/numeroExpedienteAlterno/impl/NumeroExpedienteAlternoDelegateImpl.java" afterPath="$PROJECT_DIR$/nsjp-delegate/src/main/java/mx/gob/segob/nsjp/delegate/numeroExpedienteAlterno/impl/NumeroExpedienteAlternoDelegateImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/infra/impl/PJClienteServiceImpl.java" afterPath="$PROJECT_DIR$/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/infra/impl/PJClienteServiceImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/persona/PersonaWSDTO.java" afterPath="$PROJECT_DIR$/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/persona/PersonaWSDTO.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviarcarpetainvestigacion/PersonaWSDTO.java" afterPath="$PROJECT_DIR$/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviarcarpetainvestigacion/PersonaWSDTO.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtranscripcion/RegistrarSolicitudTranscripcionAreaExternaExporter_RegistrarSolicitudTranscripcionAreaExternaExporterImplPort_Client.java" afterPath="$PROJECT_DIR$/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtranscripcion/RegistrarSolicitudTranscripcionAreaExternaExporter_RegistrarSolicitudTranscripcionAreaExternaExporterImplPort_Client.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtransferenciaimputado/RegistrarSolicitudTransferenciaImputadoSSPExporter_RegistrarSolicitudTransferenciaImputadoSSPExporterImplPort_Client.java" afterPath="$PROJECT_DIR$/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtransferenciaimputado/RegistrarSolicitudTransferenciaImputadoSSPExporter_RegistrarSolicitudTransferenciaImputadoSSPExporterImplPort_Client.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/solicitud/action/SolicitarAudienciaAction.java" afterPath="$PROJECT_DIR$/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/solicitud/action/SolicitarAudienciaAction.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudaudiencia/SolicitarAudienciaBasicoExporterImplService.java" afterPath="$PROJECT_DIR$/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudaudiencia/SolicitarAudienciaBasicoExporterImplService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/solicitud/SolicitudDTO.java" afterPath="$PROJECT_DIR$/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/solicitud/SolicitudDTO.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-delegate/src/main/java/mx/gob/segob/nsjp/delegate/expediente/TurnoDelegate.java" afterPath="$PROJECT_DIR$/nsjp-delegate/src/main/java/mx/gob/segob/nsjp/delegate/expediente/TurnoDelegate.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/defensoria/actuaciones.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/defensoria/actuaciones.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/adjuntarDocumento.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/adjuntarDocumento.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/asentarRegCadenaCustodiaView.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/asentarRegCadenaCustodiaView.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/permisosExpediente/asignarPermisoSobreExpediente.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/permisosExpediente/asignarPermisoSobreExpediente.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/atencionTempranaAdministrativaView.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/atencionTempranaAdministrativaView.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/buscarExpediente.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/buscarExpediente.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/buscarExpedientePorNombreDePersona.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/buscarExpedientePorNombreDePersona.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/buscarExpedientePorNumeroDeExpediente.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/buscarExpedientePorNumeroDeExpediente.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/pg/carpetaDeInvestigacionView.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/pg/carpetaDeInvestigacionView.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/js/permisosExpediente/cmpAsignarPermisosSobreExpediente.js" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/js/permisosExpediente/cmpAsignarPermisosSobreExpediente.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/js/permisosSolicitud/cmpAsignarPermisosSobreSolicitud.js" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/js/permisosSolicitud/cmpAsignarPermisosSobreSolicitud.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/resources/js/ckeditor/config.js" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/resources/js/ckeditor/config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/consultarCadenaCustodiaDirector.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/consultarCadenaCustodiaDirector.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-persistencia/src/test/resources/dataSource-test-context.xml" afterPath="$PROJECT_DIR$/nsjp-persistencia/src/test/resources/dataSource-test-context.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/resources/js/wdCalendar/Plugins/datepicker_lang_AU.js" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/resources/js/wdCalendar/Plugins/datepicker_lang_AU.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/datosGeneralesView.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/datosGeneralesView.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/datosPersonalesUsuario.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/datosPersonalesUsuario.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginaPrincipal/encabezado.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginaPrincipal/encabezado.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/enviarCarpetaInvestigacionDefensoria.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/enviarCarpetaInvestigacionDefensoria.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/error.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/error.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/resources/css/estilos.css" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/resources/css/estilos.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/generarDocumento.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/generarDocumento.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/generarDocumentoSinCaso.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/generarDocumentoSinCaso.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/resources/js/jqgrid/i18n/grid.locale-en.js" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/resources/js/jqgrid/i18n/grid.locale-en.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/resources/js/jqgrid/i18n/grid.locale-es.js" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/resources/js/jqgrid/i18n/grid.locale-es.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/resources/js/jqgrid/i18n/grid.locale-nl.js" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/resources/js/jqgrid/i18n/grid.locale-nl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/resources/js/jqgrid/i18n/grid.locale-ro.js" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/resources/js/jqgrid/i18n/grid.locale-ro.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/index.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/index.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/indexAdministradorView.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/indexAdministradorView.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/pg/indexProcuraduriaView.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/pg/indexProcuraduriaView.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/indexUnidadCapturaView.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/indexUnidadCapturaView.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/objeto/ingresarAnimalView.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/objeto/ingresarAnimalView.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/objeto/ingresarArmaView.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/objeto/ingresarArmaView.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarDenuncianteView.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarDenuncianteView.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/objeto/ingresarDocumentoOficialView.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/objeto/ingresarDocumentoOficialView.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarDomicilioView.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarDomicilioView.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/objeto/ingresarEquipoDeComputoView.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/objeto/ingresarEquipoDeComputoView.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/objeto/ingresarEquipoTelefonicoView.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/objeto/ingresarEquipoTelefonicoView.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/objeto/ingresarExplosivoView.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/objeto/ingresarExplosivoView.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarHechosView.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarHechosView.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/objeto/ingresarJoyaView.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/objeto/ingresarJoyaView.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarMediosContactoView.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarMediosContactoView.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarMenuIntermedio.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarMenuIntermedio.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarNotaExpedienteView.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarNotaExpedienteView.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/objeto/ingresarNumerarioView.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/objeto/ingresarNumerarioView.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/objeto/ingresarObraDeArteView.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/objeto/ingresarObraDeArteView.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/objeto/ingresarOtrosView.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/objeto/ingresarOtrosView.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarProbableResponsableView.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarProbableResponsableView.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarProbableResponsableViewPJENS.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarProbableResponsableViewPJENS.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarQuienDetuvoView.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarQuienDetuvoView.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/reinsercionSocial/ingresarSentencia.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/reinsercionSocial/ingresarSentencia.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/objeto/ingresarSustanciaView.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/objeto/ingresarSustanciaView.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarTestigoView.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarTestigoView.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarTiempoLapso.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarTiempoLapso.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarTiempoLapsoDetencion.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarTiempoLapsoDetencion.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarTraductorView.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarTraductorView.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/objeto/ingresarVegetalView.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/objeto/ingresarVegetalView.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/objeto/ingresarVehiculoView.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/objeto/ingresarVehiculoView.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarVictimaView.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarVictimaView.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/resources/css/ui-lightness/jquery-ui-1.8.11.custom.css" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/resources/css/ui-lightness/jquery-ui-1.8.11.custom.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/resources/css/jquery-ui.css" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/resources/css/jquery-ui.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/resources/js/jquery.blockUI.js" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/resources/js/jquery.blockUI.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/resources/js/jquery.treeview.async.js" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/resources/js/jquery.treeview.async.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/resources/js/wdCalendar/Plugins/jquery.ui.timepicker.js" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/resources/js/wdCalendar/Plugins/jquery.ui.timepicker.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/resources/css/jquery.windows-engine.css" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/resources/css/jquery.windows-engine.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/pg/justiciaRestaurativa.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/pg/justiciaRestaurativa.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/resources/css/layout_complex.css" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/resources/css/layout_complex.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/menuDefensaIntegracion.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/menuDefensaIntegracion.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-mail/pom.xml" afterPath="$PROJECT_DIR$/nsjp-mail/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/pom.xml" afterPath="$PROJECT_DIR$/nsjp-web/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/registrarDatosPersonaView.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/registrarDatosPersonaView.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/registrarFuncionario.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/registrarFuncionario.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/relacionaDelitoPorPersonaView.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/relacionaDelitoPorPersonaView.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/seleccionarDelitoView.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/seleccionarDelitoView.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/solicitarAudiencia.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/solicitarAudiencia.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/solicitarDictamenPericial.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/solicitarDictamenPericial.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/solicitudDePeritoExterno.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/solicitudDePeritoExterno.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/visorDetalleATDEF.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/visorDetalleATDEF.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/visorDetalleAudiencia.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/visorDetalleAudiencia.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/defensoria/visorExpedienteDefensoria.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/defensoria/visorExpedienteDefensoria.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/resources/js/wdCalendar/Plugins/wdCalendar_lang_AU.js" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/resources/js/wdCalendar/Plugins/wdCalendar_lang_AU.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/resources/js/wdCalendar/Plugins/wdCalendar_lang_US.js" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/resources/js/wdCalendar/Plugins/wdCalendar_lang_US.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/web.xml" />
+    </list>
+    <ignored path="nsjp.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <ignored path="$PROJECT_DIR$/nsjp-persistencia/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/nsjp-comun/target/" />
+    <ignored path="$PROJECT_DIR$/nsjp-servicios-api/target/" />
+    <ignored path="$PROJECT_DIR$/nsjp-servicios-impl/target/" />
+    <ignored path="$PROJECT_DIR$/nsjp-web/target/" />
+    <ignored path="$PROJECT_DIR$/nsjp-mail/target/" />
+    <ignored path="$PROJECT_DIR$/nsjp-modelo/target/" />
+    <ignored path="$PROJECT_DIR$/nsjp-dto/target/" />
+    <ignored path="$PROJECT_DIR$/nsjp-wsclient/target/" />
+    <ignored path="$PROJECT_DIR$/nsjp-delegate/target/" />
+    <ignored path="$PROJECT_DIR$/nsjp-ws/target/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="Commander">
+    <leftPanel />
+    <rightPanel />
+    <splitter proportion="0.5" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DatabaseView">
+    <option name="FLATTEN" value="false" />
+    <option name="GROUP_BY_TYPE" value="true" />
+    <option name="SORT_CHILDREN" value="false" />
+    <option name="SHOW_TABLE_CONSTRAINTS" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="nsjp" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="ingresarMenuIntermedio.jsp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarMenuIntermedio.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-39.431194" vertical-offset="82673" max-vertical-offset="104482">
+              <caret line="3599" column="73" selection-start-line="3599" selection-start-column="73" selection-end-line="3599" selection-end-column="73" />
+              <folding>
+                <marker date="1426266161664" expanded="true" signature="57720:57735" placeholder="..." />
+                <marker date="1426266161664" expanded="true" signature="71051:71065" placeholder="..." />
+                <marker date="1426266161664" expanded="true" signature="71407:71421" placeholder="..." />
+                <marker date="1426266161664" expanded="true" signature="71763:71777" placeholder="..." />
+                <marker date="1426266161664" expanded="true" signature="91146:91161" placeholder="..." />
+                <marker date="1426266161664" expanded="true" signature="91612:91627" placeholder="..." />
+                <marker date="1426266161664" expanded="true" signature="92515:92530" placeholder="..." />
+                <marker date="1426266161664" expanded="true" signature="94275:94290" placeholder="..." />
+                <marker date="1426266161664" expanded="true" signature="94717:94732" placeholder="..." />
+                <marker date="1426266161664" expanded="true" signature="95236:95251" placeholder="..." />
+                <marker date="1426266161664" expanded="true" signature="95555:95570" placeholder="..." />
+                <marker date="1426266161664" expanded="true" signature="97148:97163" placeholder="..." />
+                <marker date="1426266161664" expanded="true" signature="98410:98425" placeholder="..." />
+                <marker date="1426266161664" expanded="true" signature="99261:99276" placeholder="..." />
+                <marker date="1426266161664" expanded="true" signature="100474:100489" placeholder="..." />
+                <marker date="1426266161664" expanded="true" signature="101251:101266" placeholder="..." />
+                <marker date="1426266161664" expanded="true" signature="101955:101970" placeholder="..." />
+                <marker date="1426266161664" expanded="true" signature="102676:102691" placeholder="..." />
+                <marker date="1426266161664" expanded="true" signature="105502:105517" placeholder="..." />
+                <marker date="1426266161664" expanded="true" signature="106931:106946" placeholder="..." />
+                <marker date="1426266161664" expanded="true" signature="107482:107497" placeholder="..." />
+                <marker date="1426266161664" expanded="true" signature="109069:109084" placeholder="..." />
+                <marker date="1426266161664" expanded="true" signature="109558:109573" placeholder="..." />
+                <marker date="1426266161664" expanded="true" signature="110078:110093" placeholder="..." />
+                <marker date="1426266161664" expanded="true" signature="111139:111154" placeholder="..." />
+                <marker date="1426266161664" expanded="true" signature="111586:111601" placeholder="..." />
+                <marker date="1426266161664" expanded="true" signature="112114:112129" placeholder="..." />
+                <marker date="1426266161664" expanded="true" signature="112825:112840" placeholder="..." />
+                <marker date="1426266161664" expanded="true" signature="113248:113263" placeholder="..." />
+                <marker date="1426266161664" expanded="true" signature="113784:113799" placeholder="..." />
+                <marker date="1426266161664" expanded="true" signature="114694:114709" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/nsjp-web/src/main/webapp/atencionTempranaAdministrativaView.jsp" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/sentencia/impl/transform/SentenciaTransformer.java" />
+        <option value="$PROJECT_DIR$/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/infra/impl/transform/sentencia/ExpedienteWSDTOTransformer.java" />
+        <option value="$PROJECT_DIR$/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/involucrado/InvolucradoDTO.java" />
+        <option value="$PROJECT_DIR$/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/involucrado/InvolucradoWSDTO.java" />
+        <option value="$PROJECT_DIR$/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/expediente/DelitoWSDTO.java" />
+        <option value="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarTiempoLapsoDetencion.jsp" />
+        <option value="$PROJECT_DIR$/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/objeto/AeronaveWSDTO.java" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/persona/PersonaWSDTO.java" />
+        <option value="$PROJECT_DIR$/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviarcarpetainvestigacion/InvolucradoWSDTO.java" />
+        <option value="$PROJECT_DIR$/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviarcarpetainvestigacion/PersonaWSDTO.java" />
+        <option value="$PROJECT_DIR$/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviarcarpetainvestigacion/ExpedienteWSDTO.java" />
+        <option value="$PROJECT_DIR$/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/expediente/ExpedienteWSDTO.java" />
+        <option value="$PROJECT_DIR$/nsjp_web/target/nsjp-web/WEB-INF/paginas/Login.jsp" />
+        <option value="$PROJECT_DIR$/nsjp_web/target/nsjp-web/index.jsp" />
+        <option value="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/enviarCarpetaInvestigacionDefensoria.jsp" />
+        <option value="$PROJECT_DIR$/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviarcarpetainvestigacion/EnviarCarpetaDeInvestigacionExporter.java" />
+        <option value="$PROJECT_DIR$/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviarcarpetainvestigacion/EnviarCarpetaDeInvestigacionExporter_EnviarCarpetaDeInvestigacionExporterImplPort_Client.java" />
+        <option value="$PROJECT_DIR$/nsjp-comun/src/main/java/mx/gob/segob/nsjp/comun/excepcion/NSJPNegocioException.java" />
+        <option value="$PROJECT_DIR$/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/catalogo/ValorDTO.java" />
+        <option value="$PROJECT_DIR$/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/caso/action/ConsultaAction.java" />
+        <option value="$PROJECT_DIR$/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/domicilio/impl/IngresarDomicilioServiceImpl.java" />
+        <option value="$PROJECT_DIR$/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/relacion/impl/GenerarRelacionServiceImpl.java" />
+        <option value="$PROJECT_DIR$/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/persona/action/EnviarCarpetaInvestigacionAction.java" />
+        <option value="$PROJECT_DIR$/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/expediente/impl/EnviarCarpetaDeInvestigacionServiceImpl.java" />
+        <option value="$PROJECT_DIR$/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/expediente/impl/ActualizarCarpetaDeInvestigacionServiceImpl.java" />
+        <option value="$PROJECT_DIR$/nsjp-web/src/main/webapp/respaldos/atencionTempranaPenalView.jsp" />
+        <option value="$PROJECT_DIR$/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/avisodetencion/impl/EnviarAvisoDetencionServiceImpl.java" />
+        <option value="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/relacionaDelitoPorPersonaView.jsp" />
+        <option value="$PROJECT_DIR$/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/involucrado/impl/ConsultarIndividuoServiceImpl.java" />
+        <option value="$PROJECT_DIR$/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/atencionTempranaPenal/action/AtencionTempranaPenalAction.java" />
+        <option value="$PROJECT_DIR$/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/infra/impl/DefensoriaClienteServiceImpl.java" />
+        <option value="$PROJECT_DIR$/nsjp-comun/src/main/java/mx/gob/segob/nsjp/comun/util/DateUtils.java" />
+        <option value="$PROJECT_DIR$/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/expediente/impl/ExpedienteDAOImpl.java" />
+        <option value="$PROJECT_DIR$/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/expediente/impl/AsignarNumeroExpedienteServiceImpl.java" />
+        <option value="$PROJECT_DIR$/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/caso/impl/AsignarNumeroCasoServiceImpl.java" />
+        <option value="$PROJECT_DIR$/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudaudiencia/InvolucradoWSDTO.java" />
+        <option value="$PROJECT_DIR$/nsjp-web/src/main/webapp/solicitarAudiencia.jsp" />
+        <option value="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarDenuncianteView.jsp" />
+        <option value="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarTiempoLapso.jsp" />
+        <option value="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarDomicilioView.jsp" />
+        <option value="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarHechosView.jsp" />
+        <option value="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/generarDocumento.jsp" />
+        <option value="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/generarDocumentoSinCaso.jsp" />
+        <option value="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarMenuIntermedio.jsp" />
+        <option value="$PROJECT_DIR$/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/persona/action/IngresarIndividuoAction.java" />
+        <option value="$PROJECT_DIR$/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/solicitud/impl/EnviarSolicitudDeAudienciaServiceImpl.java" />
+        <option value="$PROJECT_DIR$/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/solicitud/action/SolicitarAudienciaAction.java" />
+        <option value="$PROJECT_DIR$/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/infra/impl/PJClienteServiceImpl.java" />
+        <option value="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/pg/carpetaDeInvestigacionView.jsp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="1" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nsjp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nsjp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="procu3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nsjp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="procu3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nsjp-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nsjp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="procu3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nsjp-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nsjp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="procu3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nsjp-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nsjp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="procu3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nsjp-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nsjp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="procu3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nsjp-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="paginas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nsjp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="procu3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nsjp-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../nsjp-procu-viejo" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.3873045" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="options.lastSelected" value="vcs.Subversion" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="RunManager" selected="GlassFish Server.nsjp">
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GlassfishConfiguration" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="DOMAIN" value="" />
+        <option name="PRESERVE" value="false" />
+        <option name="VIRTUAL_SERVER" />
+        <option name="USERNAME" value="admin" />
+        <option name="PASSWORD" value="" />
+      </server-settings>
+      <predefined_log_file id="GlassFish" enabled="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GlassfishConfiguration" factoryName="Remote" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="LOCAL" value="false" />
+      <deployment />
+      <server-settings>
+        <data>
+          <option name="transportHostId" />
+        </data>
+      </server-settings>
+      <predefined_log_file id="GlassFish" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="nsjp" type="GlassfishConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="GlassFish 3" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="C:/Program Files/Java/jdk1.7.0_67/jre">
+      <option name="OPEN_IN_BROWSER_URL" value="http://127.0.0.1:9088/nsjp-web/" />
+      <option name="BROWSER_ID" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="nsjp-web:war">
+          <settings />
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="DOMAIN" value="C:\glassfish3\glassfish\domains\domain1" />
+        <option name="PRESERVE" value="false" />
+        <option name="VIRTUAL_SERVER" />
+        <option name="USERNAME" value="admin" />
+        <option name="PASSWORD" value="" />
+      </server-settings>
+      <predefined_log_file id="GlassFish" enabled="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Cover" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="9009" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="nsjp-web:war" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="false" name="Unnamed" type="GlassfishConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="GlassFish 4.1.0" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="C:/Program Files/Java/jdk1.7.0_67/jre">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/nsjp-web/" />
+      <option name="BROWSER_ID" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="nsjp-web:war">
+          <settings />
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="DOMAIN" value="domain1" />
+        <option name="PRESERVE" value="false" />
+        <option name="VIRTUAL_SERVER" />
+        <option name="USERNAME" value="admin" />
+        <option name="PASSWORD" value="" />
+      </server-settings>
+      <predefined_log_file id="GlassFish" enabled="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Cover" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="9009" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="nsjp-web:war" />
+        </option>
+      </method>
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="GlassFish Server.nsjp" />
+      <item index="1" class="java.lang.String" itemvalue="GlassFish Server.Unnamed" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SliceManager">
+    <option name="analysisUIOptions">
+      <AnalysisUIOptions />
+    </option>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\domotics\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\workspace\procu3\nsjp-comun" />
+          <option name="myCopyRoot" value="C:\workspace\procu3\nsjp-comun" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\workspace\procu3\nsjp-delegate" />
+          <option name="myCopyRoot" value="C:\workspace\procu3\nsjp-delegate" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\workspace\procu3\nsjp-dto" />
+          <option name="myCopyRoot" value="C:\workspace\procu3\nsjp-dto" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\workspace\procu3\nsjp-mail" />
+          <option name="myCopyRoot" value="C:\workspace\procu3\nsjp-mail" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\workspace\procu3\nsjp-modelo" />
+          <option name="myCopyRoot" value="C:\workspace\procu3\nsjp-modelo" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\workspace\procu3\nsjp-persistencia" />
+          <option name="myCopyRoot" value="C:\workspace\procu3\nsjp-persistencia" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\workspace\procu3\nsjp-servicios-api" />
+          <option name="myCopyRoot" value="C:\workspace\procu3\nsjp-servicios-api" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\workspace\procu3\nsjp-servicios-impl" />
+          <option name="myCopyRoot" value="C:\workspace\procu3\nsjp-servicios-impl" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\workspace\procu3\nsjp-web" />
+          <option name="myCopyRoot" value="C:\workspace\procu3\nsjp-web" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\workspace\procu3\nsjp-ws" />
+          <option name="myCopyRoot" value="C:\workspace\procu3\nsjp-ws" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\workspace\procu3\nsjp-wsclient" />
+          <option name="myCopyRoot" value="C:\workspace\procu3\nsjp-wsclient" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\workspace\procu3\nsjp-comun" />
+          <option name="myCopyRoot" value="C:\workspace\procu3\nsjp-comun" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\workspace\procu3\nsjp-delegate" />
+          <option name="myCopyRoot" value="C:\workspace\procu3\nsjp-delegate" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\workspace\procu3\nsjp-dto" />
+          <option name="myCopyRoot" value="C:\workspace\procu3\nsjp-dto" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\workspace\procu3\nsjp-mail" />
+          <option name="myCopyRoot" value="C:\workspace\procu3\nsjp-mail" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\workspace\procu3\nsjp-modelo" />
+          <option name="myCopyRoot" value="C:\workspace\procu3\nsjp-modelo" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\workspace\procu3\nsjp-persistencia" />
+          <option name="myCopyRoot" value="C:\workspace\procu3\nsjp-persistencia" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\workspace\procu3\nsjp-servicios-api" />
+          <option name="myCopyRoot" value="C:\workspace\procu3\nsjp-servicios-api" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\workspace\procu3\nsjp-servicios-impl" />
+          <option name="myCopyRoot" value="C:\workspace\procu3\nsjp-servicios-impl" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\workspace\procu3\nsjp-web" />
+          <option name="myCopyRoot" value="C:\workspace\procu3\nsjp-web" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\workspace\procu3\nsjp-ws" />
+          <option name="myCopyRoot" value="C:\workspace\procu3\nsjp-ws" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\workspace\procu3\nsjp-wsclient" />
+          <option name="myCopyRoot" value="C:\workspace\procu3\nsjp-wsclient" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2fb613c-b63c-487d-afe9-bde0b133b11a" name="Default" comment="" />
+      <created>1421309791851</created>
+      <option name="number" value="Default" />
+      <updated>1421309791851</updated>
+      <workItem from="1421309812542" duration="23076000" />
+      <workItem from="1421426543338" duration="2024000" />
+      <workItem from="1421434384820" duration="23381000" />
+      <workItem from="1421550373666" duration="2943000" />
+      <workItem from="1421610254141" duration="991000" />
+      <workItem from="1421680078914" duration="3059000" />
+      <workItem from="1421686062761" duration="2793000" />
+      <workItem from="1421700741404" duration="1870000" />
+      <workItem from="1421731124700" duration="1526000" />
+      <workItem from="1421764087538" duration="19681000" />
+      <workItem from="1421828854280" duration="462000" />
+      <workItem from="1421850299749" duration="21383000" />
+      <workItem from="1421940308345" duration="17730000" />
+      <workItem from="1422031101485" duration="647000" />
+      <workItem from="1422045833519" duration="7610000" />
+      <workItem from="1422219194604" duration="6511000" />
+      <workItem from="1422286745899" duration="34791000" />
+      <workItem from="1422371707030" duration="6169000" />
+      <workItem from="1422393115606" duration="392000" />
+      <workItem from="1422393547131" duration="14404000" />
+      <workItem from="1422458729289" duration="21556000" />
+      <workItem from="1422540870319" duration="18920000" />
+      <workItem from="1422591282779" duration="4098000" />
+      <workItem from="1422629644261" duration="28121000" />
+      <workItem from="1422907732985" duration="12975000" />
+      <workItem from="1422977050666" duration="10176000" />
+      <workItem from="1422997328593" duration="4424000" />
+      <workItem from="1423002621459" duration="1700000" />
+      <workItem from="1424114381264" duration="7338000" />
+      <workItem from="1424189194460" duration="1694000" />
+      <workItem from="1424274722979" duration="11243000" />
+      <workItem from="1424359404471" duration="14902000" />
+      <workItem from="1424708948390" duration="4680000" />
+      <workItem from="1424911080706" duration="1341000" />
+      <workItem from="1424994265737" duration="2091000" />
+      <workItem from="1425058367856" duration="2135000" />
+      <workItem from="1425141103054" duration="737000" />
+      <workItem from="1425145507355" duration="1307000" />
+      <workItem from="1425346963885" duration="2331000" />
+      <workItem from="1425402822693" duration="13642000" />
+      <workItem from="1425491218624" duration="709000" />
+      <workItem from="1425652250254" duration="7920000" />
+      <workItem from="1425914397335" duration="964000" />
+      <workItem from="1426021288454" duration="7470000" />
+      <workItem from="1426090045899" duration="4078000" />
+      <workItem from="1426179654005" duration="8332000" />
+      <workItem from="1426266929715" duration="9535000" />
+      <workItem from="1426536487880" duration="3091000" />
+      <workItem from="1426613279740" duration="1311000" />
+      <workItem from="1426781976144" duration="2007000" />
+      <workItem from="1426794420210" duration="1939000" />
+      <workItem from="1426868389915" duration="3176000" />
+      <workItem from="1427126544682" duration="873000" />
+      <workItem from="1427303615706" duration="608000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="408867000" />
+  </component>
+  <component name="TodoView" selected-index="3">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36601308" sideWeight="0.39485627" order="0" side_tool="true" content_ui="tabs" x="9" y="298" width="1366" height="209" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Struts Assistant" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2602118" sideWeight="0.4969819" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25718608" sideWeight="0.5012407" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962178" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25718608" sideWeight="0.5030181" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.40359476" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34150326" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.37254903" sideWeight="0.6051437" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32913387" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-defaults>
+        <breakpoint suspend="THREAD" type="java-method" />
+      </breakpoints-defaults>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint log-message="true" suspend="NONE" type="java-exception">
+          <properties />
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="36" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/caso/impl/AsignarNumeroCasoServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1514" max-vertical-offset="2414">
+          <caret line="141" column="57" selection-start-line="141" selection-start-column="8" selection-end-line="141" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarDenuncianteView.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="8246" max-vertical-offset="18258">
+          <caret line="507" column="19" selection-start-line="507" selection-start-column="19" selection-end-line="507" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarTiempoEspecificamente.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2108">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarTiempoLapso.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.1153846" vertical-offset="4381" max-vertical-offset="4811">
+          <caret line="264" column="63" selection-start-line="264" selection-start-column="36" selection-end-line="264" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarDomicilioView.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="28711" max-vertical-offset="34068">
+          <caret line="1705" column="12" selection-start-line="1705" selection-start-column="12" selection-end-line="1705" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarProbableResponsableView.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-89.785324" vertical-offset="54577" max-vertical-offset="55998">
+          <caret line="332" column="45" selection-start-line="314" selection-start-column="24" selection-end-line="314" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarHechosView.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.807693" vertical-offset="15112" max-vertical-offset="17204">
+          <caret line="907" column="114" selection-start-line="907" selection-start-column="114" selection-end-line="907" selection-end-column="114" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsjp-delegate/src/main/java/mx/gob/segob/nsjp/delegate/forma/FormaDelegate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.673774" vertical-offset="789" max-vertical-offset="1258">
+          <caret line="87" column="25" selection-start-line="87" selection-start-column="25" selection-end-line="87" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/forma/impl/FormaDAOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6181818" vertical-offset="0" max-vertical-offset="1870">
+          <caret line="44" column="24" selection-start-line="44" selection-start-column="23" selection-end-line="44" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/documento/action/ConsultarDocumentoAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.827586" vertical-offset="3870" max-vertical-offset="7327">
+          <caret line="297" column="79" selection-start-line="297" selection-start-column="59" selection-end-line="297" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/forma/ConsultarFormaPlantillaService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7100213" vertical-offset="279" max-vertical-offset="748">
+          <caret line="58" column="25" selection-start-line="58" selection-start-column="25" selection-end-line="58" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsjp-delegate/src/main/java/mx/gob/segob/nsjp/delegate/forma/impl/FormaDelegateImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1124" max-vertical-offset="1564">
+          <caret line="112" column="55" selection-start-line="112" selection-start-column="55" selection-end-line="112" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/forma/CamposFormaDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6162047" vertical-offset="0" max-vertical-offset="469">
+          <caret line="39" column="22" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/forma/impl/CamposFormaDAOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="252" max-vertical-offset="901">
+          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/forma/impl/ConsultarFormaPlantillaServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="908" max-vertical-offset="1394">
+          <caret line="104" column="53" selection-start-line="104" selection-start-column="53" selection-end-line="104" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/forma/CamposFormaDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="1088">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/generarDocumento.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2193" max-vertical-offset="3349">
+          <caret line="134" column="107" selection-start-line="134" selection-start-column="107" selection-end-line="134" selection-end-column="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/generarDocumentoSinCaso.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="12597" max-vertical-offset="14620">
+          <caret line="758" column="102" selection-start-line="758" selection-start-column="102" selection-end-line="758" selection-end-column="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsjp-comun/src/main/java/mx/gob/segob/nsjp/comun/constants/ConstantesGenerales.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11643836" vertical-offset="0" max-vertical-offset="2839">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/infra/DefensoriaClienteService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3326226" vertical-offset="388" max-vertical-offset="986">
+          <caret line="57" column="22" selection-start-line="57" selection-start-column="22" selection-end-line="57" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/relacionaDelitoPorPersonaView.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.74418604" vertical-offset="11155" max-vertical-offset="14314">
+          <caret line="675" column="76" selection-start-line="675" selection-start-column="55" selection-end-line="675" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/solicitud/EnviarSolicitudDeAudienciaService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3326226" vertical-offset="14" max-vertical-offset="680">
+          <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsjp-delegate/src/main/java/mx/gob/segob/nsjp/delegate/actuaciones/impl/ActuacionesDelegateImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44517544" vertical-offset="35" max-vertical-offset="765">
+          <caret line="46" column="42" selection-start-line="46" selection-start-column="42" selection-end-line="46" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/infra/PJClienteService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3326226" vertical-offset="269" max-vertical-offset="2720">
+          <caret line="54" column="26" selection-start-line="54" selection-start-column="26" selection-end-line="54" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/forma/impl/transform/CamposFormaTransformer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="952">
+          <caret line="22" column="43" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/persona/action/IngresarIndividuoAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3581" max-vertical-offset="46053">
+          <caret line="299" column="42" selection-start-line="299" selection-start-column="42" selection-end-line="299" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/avisodetencion/impl/EnviarAvisoDetencionServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1858" max-vertical-offset="2363">
+          <caret line="176" column="31" selection-start-line="176" selection-start-column="31" selection-end-line="176" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/infra/impl/DefensoriaClienteServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="700" max-vertical-offset="5100">
+          <caret line="156" column="4" selection-start-line="156" selection-start-column="4" selection-end-line="156" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/caso/form/IngresarIndividuoForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="5131" max-vertical-offset="34187">
+          <caret line="355" column="7" selection-start-line="355" selection-start-column="7" selection-end-line="355" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/hecho/action/IngresarHechosAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31034482" vertical-offset="2321" max-vertical-offset="10489">
+          <caret line="183" column="8" selection-start-line="183" selection-start-column="8" selection-end-line="183" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/solicitud/action/SolicitarAudienciaAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="7259" max-vertical-offset="15266">
+          <caret line="513" column="4" selection-start-line="513" selection-start-column="4" selection-end-line="513" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/solicitud/impl/EnviarSolicitudDeAudienciaServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="715" max-vertical-offset="2193">
+          <caret line="96" column="8" selection-start-line="96" selection-start-column="8" selection-end-line="96" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/elementomenu/impl/ElementoMenuDAOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.063536" vertical-offset="917" max-vertical-offset="1836">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/elementomenu/ElementoMenuDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3314917" vertical-offset="101" max-vertical-offset="476">
+          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/elementomenu/impl/ElementoMenuServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37845305" vertical-offset="220" max-vertical-offset="2023">
+          <caret line="38" column="35" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/elementomenu/ElementoMenuService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3314917" vertical-offset="169" max-vertical-offset="731">
+          <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsjp-delegate/src/main/java/mx/gob/segob/nsjp/delegate/elementomenu/impl/ElementoMenuDelegateImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6132597" vertical-offset="67" max-vertical-offset="544">
+          <caret line="30" column="48" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsjp-delegate/src/main/java/mx/gob/segob/nsjp/delegate/elementomenu/ElementoMenuDelegate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3314917" vertical-offset="186" max-vertical-offset="595">
+          <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/login/action/LoginAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.46875" vertical-offset="12209" max-vertical-offset="12529">
+          <caret line="786" column="48" selection-start-line="786" selection-start-column="48" selection-end-line="786" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/infra/impl/PJClienteServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2788" max-vertical-offset="13209">
+          <caret line="265" column="5" selection-start-line="265" selection-start-column="5" selection-end-line="265" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsjp-comun/src/main/java/mx/gob/segob/nsjp/dto/base/DTOUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34931508" vertical-offset="0" max-vertical-offset="799">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/menu/action/MenuAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.408056" vertical-offset="5396" max-vertical-offset="6324">
+          <caret line="76" column="36" selection-start-line="76" selection-start-column="25" selection-end-line="76" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/audiencia/impl/AudienciaDAOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.0437827" vertical-offset="2530" max-vertical-offset="9894">
+          <caret line="53" column="13" selection-start-line="53" selection-start-column="13" selection-end-line="53" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/catalogo/impl/CatalogoDAOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33274958" vertical-offset="31" max-vertical-offset="1445">
+          <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/catalogo/action/ConsultarCatalogosAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.68126094" vertical-offset="26607" max-vertical-offset="57868">
+          <caret line="1669" column="41" selection-start-line="1669" selection-start-column="41" selection-end-line="1669" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsjp-web/src/main/webapp/js/solicitarAudiencia.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25569177" vertical-offset="143" max-vertical-offset="4199">
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="50" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsjp-web/src/main/webapp/solicitarAudiencia.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="7.922936" vertical-offset="663" max-vertical-offset="8891">
+          <caret line="293" column="53" selection-start-line="293" selection-start-column="38" selection-end-line="293" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginaPrincipal/menuIzquierdo.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22018349" vertical-offset="1495" max-vertical-offset="2125">
+          <caret line="95" column="13" selection-start-line="95" selection-start-column="13" selection-end-line="95" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginaPrincipal/paginaPrincipal.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.493578" vertical-offset="1359" max-vertical-offset="1904">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/pg/carpetaDeInvestigacionView.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.873395" vertical-offset="17437" max-vertical-offset="19057">
+          <caret line="613" column="25" selection-start-line="613" selection-start-column="25" selection-end-line="613" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarMenuIntermedio.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-39.431194" vertical-offset="82673" max-vertical-offset="104482">
+          <caret line="3599" column="73" selection-start-line="3599" selection-start-column="73" selection-end-line="3599" selection-end-column="73" />
+          <folding>
+            <marker date="1426266161664" expanded="true" signature="57720:57735" placeholder="..." />
+            <marker date="1426266161664" expanded="true" signature="71051:71065" placeholder="..." />
+            <marker date="1426266161664" expanded="true" signature="71407:71421" placeholder="..." />
+            <marker date="1426266161664" expanded="true" signature="71763:71777" placeholder="..." />
+            <marker date="1426266161664" expanded="true" signature="91146:91161" placeholder="..." />
+            <marker date="1426266161664" expanded="true" signature="91612:91627" placeholder="..." />
+            <marker date="1426266161664" expanded="true" signature="92515:92530" placeholder="..." />
+            <marker date="1426266161664" expanded="true" signature="94275:94290" placeholder="..." />
+            <marker date="1426266161664" expanded="true" signature="94717:94732" placeholder="..." />
+            <marker date="1426266161664" expanded="true" signature="95236:95251" placeholder="..." />
+            <marker date="1426266161664" expanded="true" signature="95555:95570" placeholder="..." />
+            <marker date="1426266161664" expanded="true" signature="97148:97163" placeholder="..." />
+            <marker date="1426266161664" expanded="true" signature="98410:98425" placeholder="..." />
+            <marker date="1426266161664" expanded="true" signature="99261:99276" placeholder="..." />
+            <marker date="1426266161664" expanded="true" signature="100474:100489" placeholder="..." />
+            <marker date="1426266161664" expanded="true" signature="101251:101266" placeholder="..." />
+            <marker date="1426266161664" expanded="true" signature="101955:101970" placeholder="..." />
+            <marker date="1426266161664" expanded="true" signature="102676:102691" placeholder="..." />
+            <marker date="1426266161664" expanded="true" signature="105502:105517" placeholder="..." />
+            <marker date="1426266161664" expanded="true" signature="106931:106946" placeholder="..." />
+            <marker date="1426266161664" expanded="true" signature="107482:107497" placeholder="..." />
+            <marker date="1426266161664" expanded="true" signature="109069:109084" placeholder="..." />
+            <marker date="1426266161664" expanded="true" signature="109558:109573" placeholder="..." />
+            <marker date="1426266161664" expanded="true" signature="110078:110093" placeholder="..." />
+            <marker date="1426266161664" expanded="true" signature="111139:111154" placeholder="..." />
+            <marker date="1426266161664" expanded="true" signature="111586:111601" placeholder="..." />
+            <marker date="1426266161664" expanded="true" signature="112114:112129" placeholder="..." />
+            <marker date="1426266161664" expanded="true" signature="112825:112840" placeholder="..." />
+            <marker date="1426266161664" expanded="true" signature="113248:113263" placeholder="..." />
+            <marker date="1426266161664" expanded="true" signature="113784:113799" placeholder="..." />
+            <marker date="1426266161664" expanded="true" signature="114694:114709" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>nsjp-web:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3873045" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web (nsjp-web)|Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3873045" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3873045" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3873045" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>nsjp-servicios-impl</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3873045" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.google.code:kaptcha:2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3873045" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
