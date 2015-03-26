@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration>
+        <fileset id="fileset" name="Spring Application Context" removed="false">
+          <file>file://$MODULE_DIR$/nsjp_web/target/nsjp-web/WEB-INF/classes/services-nsjp-context.xml</file>
+          <file>file://$MODULE_DIR$/nsjp_web/target/nsjp-web/WEB-INF/classes/delegate-nsjp-context.xml</file>
+          <file>file://$MODULE_DIR$/nsjp_web/target/nsjp-web/WEB-INF/classes/tx-nsjp-context.xml</file>
+          <file>file://$MODULE_DIR$/nsjp_web/target/nsjp-web/WEB-INF/classes/daos-nsjp-context.xml</file>
+          <file>file://$MODULE_DIR$/nsjp_web/target/nsjp-web/WEB-INF/classes/dataSource-nsjp-context.xml</file>
+          <file>file://$MODULE_DIR$/nsjp_web/target/nsjp-web/WEB-INF/classes/javaMail-nsjp-context.xml</file>
+          <file>file://$MODULE_DIR$/nsjp_web/target/nsjp-web/WEB-INF/classes/sessionFactory-nsjp-context.xml</file>
+          <file>file://$MODULE_DIR$/nsjp_web/target/nsjp-web/WEB-INF/javaMail-nsjp-context_original.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/nsjp_web/target/nsjp-web/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/nsjp_web/target/nsjp-web" relative="/" />
+        </webroots>
+      </configuration>
+      <facet type="struts" name="Struts">
+        <configuration>
+          <option name="myStrutsValidationEnabled" value="true" />
+          <option name="myTilesValidationEnabled" value="true" />
+          <option name="myValidatorValidationEnabled" value="true" />
+          <option name="myReportErrorsAsWarnings" value="true" />
+          <option name="mySuppressPropertiesValidation" value="false" />
+        </configuration>
+      </facet>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_6" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="java" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="struts-struts" level="project" />
+  </component>
+</module>
