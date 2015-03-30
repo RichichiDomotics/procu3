@@ -81,12 +81,8 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/buscarExpedientePorNombreDePersona.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/buscarExpedientePorNombreDePersona.jsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/buscarExpedientePorNumeroDeExpediente.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/buscarExpedientePorNumeroDeExpediente.jsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/pg/carpetaDeInvestigacionView.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/pg/carpetaDeInvestigacionView.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/js/permisosExpediente/cmpAsignarPermisosSobreExpediente.js" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/js/permisosExpediente/cmpAsignarPermisosSobreExpediente.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/js/permisosSolicitud/cmpAsignarPermisosSobreSolicitud.js" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/js/permisosSolicitud/cmpAsignarPermisosSobreSolicitud.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/resources/js/ckeditor/config.js" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/resources/js/ckeditor/config.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/consultarCadenaCustodiaDirector.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/consultarCadenaCustodiaDirector.jsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-persistencia/src/test/resources/dataSource-test-context.xml" afterPath="$PROJECT_DIR$/nsjp-persistencia/src/test/resources/dataSource-test-context.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/resources/js/wdCalendar/Plugins/datepicker_lang_AU.js" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/resources/js/wdCalendar/Plugins/datepicker_lang_AU.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/datosGeneralesView.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/datosGeneralesView.jsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/datosPersonalesUsuario.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/datosPersonalesUsuario.jsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginaPrincipal/encabezado.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginaPrincipal/encabezado.jsp" />
@@ -95,10 +91,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/resources/css/estilos.css" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/resources/css/estilos.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/generarDocumento.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/generarDocumento.jsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/generarDocumentoSinCaso.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/generarDocumentoSinCaso.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/resources/js/jqgrid/i18n/grid.locale-en.js" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/resources/js/jqgrid/i18n/grid.locale-en.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/resources/js/jqgrid/i18n/grid.locale-es.js" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/resources/js/jqgrid/i18n/grid.locale-es.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/resources/js/jqgrid/i18n/grid.locale-nl.js" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/resources/js/jqgrid/i18n/grid.locale-nl.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/resources/js/jqgrid/i18n/grid.locale-ro.js" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/resources/js/jqgrid/i18n/grid.locale-ro.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/index.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/index.jsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/indexAdministradorView.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/indexAdministradorView.jsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/pg/indexProcuraduriaView.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/pg/indexProcuraduriaView.jsp" />
@@ -133,9 +125,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarVictimaView.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarVictimaView.jsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/resources/css/ui-lightness/jquery-ui-1.8.11.custom.css" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/resources/css/ui-lightness/jquery-ui-1.8.11.custom.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/resources/css/jquery-ui.css" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/resources/css/jquery-ui.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/resources/js/jquery.blockUI.js" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/resources/js/jquery.blockUI.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/resources/js/jquery.treeview.async.js" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/resources/js/jquery.treeview.async.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/resources/js/wdCalendar/Plugins/jquery.ui.timepicker.js" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/resources/js/wdCalendar/Plugins/jquery.ui.timepicker.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/resources/css/jquery.windows-engine.css" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/resources/css/jquery.windows-engine.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/pg/justiciaRestaurativa.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/pg/justiciaRestaurativa.jsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/resources/css/layout_complex.css" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/resources/css/layout_complex.css" />
@@ -152,8 +141,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/visorDetalleATDEF.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/visorDetalleATDEF.jsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/visorDetalleAudiencia.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/visorDetalleAudiencia.jsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/defensoria/visorExpedienteDefensoria.jsp" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/defensoria/visorExpedienteDefensoria.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/resources/js/wdCalendar/Plugins/wdCalendar_lang_AU.js" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/resources/js/wdCalendar/Plugins/wdCalendar_lang_AU.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/resources/js/wdCalendar/Plugins/wdCalendar_lang_US.js" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/resources/js/wdCalendar/Plugins/wdCalendar_lang_US.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/web.xml" />
     </list>
     <ignored path="nsjp.iws" />
@@ -206,8 +193,8 @@
       <file leaf-file-name="ingresarMenuIntermedio.jsp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarMenuIntermedio.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-39.431194" vertical-offset="82673" max-vertical-offset="104482">
-              <caret line="3599" column="73" selection-start-line="3599" selection-start-column="73" selection-end-line="3599" selection-end-column="73" />
+            <state vertical-scroll-proportion="0.63722396" vertical-offset="82673" max-vertical-offset="104482">
+              <caret line="4875" column="75" selection-start-line="4875" selection-start-column="75" selection-end-line="4875" selection-end-column="75" />
               <folding>
                 <marker date="1426266161664" expanded="true" signature="57720:57735" placeholder="..." />
                 <marker date="1426266161664" expanded="true" signature="71051:71065" placeholder="..." />
@@ -359,168 +346,24 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="nsjp" />
+              <option name="myItemId" value="procu3" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="nsjp" />
+              <option name="myItemId" value="procu3" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="procu3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nsjp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="procu3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nsjp-web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nsjp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="procu3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nsjp-web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nsjp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="procu3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nsjp-web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nsjp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="procu3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nsjp-web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WEB-INF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nsjp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="procu3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nsjp-web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WEB-INF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="paginas" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nsjp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="procu3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nsjp-web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -532,8 +375,8 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../nsjp-procu-viejo" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/kaptcha-2.3.2" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.3873045" />
     <property name="recentsLimit" value="5" />
@@ -985,96 +828,96 @@
     <option name="myMappingRoots">
       <list>
         <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="C:\workspace\procu3\nsjp-comun" />
-          <option name="myCopyRoot" value="C:\workspace\procu3\nsjp-comun" />
+          <option name="myVcsRoot" value="C:\workspace\codigo-sigi-hidalgo\procu3\procu3\nsjp-comun" />
+          <option name="myCopyRoot" value="C:\workspace\codigo-sigi-hidalgo\procu3\procu3\nsjp-comun" />
         </SvnCopyRootSimple>
         <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="C:\workspace\procu3\nsjp-delegate" />
-          <option name="myCopyRoot" value="C:\workspace\procu3\nsjp-delegate" />
+          <option name="myVcsRoot" value="C:\workspace\codigo-sigi-hidalgo\procu3\procu3\nsjp-delegate" />
+          <option name="myCopyRoot" value="C:\workspace\codigo-sigi-hidalgo\procu3\procu3\nsjp-delegate" />
         </SvnCopyRootSimple>
         <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="C:\workspace\procu3\nsjp-dto" />
-          <option name="myCopyRoot" value="C:\workspace\procu3\nsjp-dto" />
+          <option name="myVcsRoot" value="C:\workspace\codigo-sigi-hidalgo\procu3\procu3\nsjp-dto" />
+          <option name="myCopyRoot" value="C:\workspace\codigo-sigi-hidalgo\procu3\procu3\nsjp-dto" />
         </SvnCopyRootSimple>
         <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="C:\workspace\procu3\nsjp-mail" />
-          <option name="myCopyRoot" value="C:\workspace\procu3\nsjp-mail" />
+          <option name="myVcsRoot" value="C:\workspace\codigo-sigi-hidalgo\procu3\procu3\nsjp-mail" />
+          <option name="myCopyRoot" value="C:\workspace\codigo-sigi-hidalgo\procu3\procu3\nsjp-mail" />
         </SvnCopyRootSimple>
         <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="C:\workspace\procu3\nsjp-modelo" />
-          <option name="myCopyRoot" value="C:\workspace\procu3\nsjp-modelo" />
+          <option name="myVcsRoot" value="C:\workspace\codigo-sigi-hidalgo\procu3\procu3\nsjp-modelo" />
+          <option name="myCopyRoot" value="C:\workspace\codigo-sigi-hidalgo\procu3\procu3\nsjp-modelo" />
         </SvnCopyRootSimple>
         <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="C:\workspace\procu3\nsjp-persistencia" />
-          <option name="myCopyRoot" value="C:\workspace\procu3\nsjp-persistencia" />
+          <option name="myVcsRoot" value="C:\workspace\codigo-sigi-hidalgo\procu3\procu3\nsjp-persistencia" />
+          <option name="myCopyRoot" value="C:\workspace\codigo-sigi-hidalgo\procu3\procu3\nsjp-persistencia" />
         </SvnCopyRootSimple>
         <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="C:\workspace\procu3\nsjp-servicios-api" />
-          <option name="myCopyRoot" value="C:\workspace\procu3\nsjp-servicios-api" />
+          <option name="myVcsRoot" value="C:\workspace\codigo-sigi-hidalgo\procu3\procu3\nsjp-servicios-api" />
+          <option name="myCopyRoot" value="C:\workspace\codigo-sigi-hidalgo\procu3\procu3\nsjp-servicios-api" />
         </SvnCopyRootSimple>
         <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="C:\workspace\procu3\nsjp-servicios-impl" />
-          <option name="myCopyRoot" value="C:\workspace\procu3\nsjp-servicios-impl" />
+          <option name="myVcsRoot" value="C:\workspace\codigo-sigi-hidalgo\procu3\procu3\nsjp-servicios-impl" />
+          <option name="myCopyRoot" value="C:\workspace\codigo-sigi-hidalgo\procu3\procu3\nsjp-servicios-impl" />
         </SvnCopyRootSimple>
         <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="C:\workspace\procu3\nsjp-web" />
-          <option name="myCopyRoot" value="C:\workspace\procu3\nsjp-web" />
+          <option name="myVcsRoot" value="C:\workspace\codigo-sigi-hidalgo\procu3\procu3\nsjp-web" />
+          <option name="myCopyRoot" value="C:\workspace\codigo-sigi-hidalgo\procu3\procu3\nsjp-web" />
         </SvnCopyRootSimple>
         <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="C:\workspace\procu3\nsjp-ws" />
-          <option name="myCopyRoot" value="C:\workspace\procu3\nsjp-ws" />
+          <option name="myVcsRoot" value="C:\workspace\codigo-sigi-hidalgo\procu3\procu3\nsjp-ws" />
+          <option name="myCopyRoot" value="C:\workspace\codigo-sigi-hidalgo\procu3\procu3\nsjp-ws" />
         </SvnCopyRootSimple>
         <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="C:\workspace\procu3\nsjp-wsclient" />
-          <option name="myCopyRoot" value="C:\workspace\procu3\nsjp-wsclient" />
+          <option name="myVcsRoot" value="C:\workspace\codigo-sigi-hidalgo\procu3\procu3\nsjp-wsclient" />
+          <option name="myCopyRoot" value="C:\workspace\codigo-sigi-hidalgo\procu3\procu3\nsjp-wsclient" />
         </SvnCopyRootSimple>
       </list>
     </option>
     <option name="myMoreRealMappingRoots">
       <list>
         <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="C:\workspace\procu3\nsjp-comun" />
-          <option name="myCopyRoot" value="C:\workspace\procu3\nsjp-comun" />
+          <option name="myVcsRoot" value="C:\workspace\codigo-sigi-hidalgo\procu3\procu3\nsjp-comun" />
+          <option name="myCopyRoot" value="C:\workspace\codigo-sigi-hidalgo\procu3\procu3\nsjp-comun" />
         </SvnCopyRootSimple>
         <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="C:\workspace\procu3\nsjp-delegate" />
-          <option name="myCopyRoot" value="C:\workspace\procu3\nsjp-delegate" />
+          <option name="myVcsRoot" value="C:\workspace\codigo-sigi-hidalgo\procu3\procu3\nsjp-delegate" />
+          <option name="myCopyRoot" value="C:\workspace\codigo-sigi-hidalgo\procu3\procu3\nsjp-delegate" />
         </SvnCopyRootSimple>
         <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="C:\workspace\procu3\nsjp-dto" />
-          <option name="myCopyRoot" value="C:\workspace\procu3\nsjp-dto" />
+          <option name="myVcsRoot" value="C:\workspace\codigo-sigi-hidalgo\procu3\procu3\nsjp-dto" />
+          <option name="myCopyRoot" value="C:\workspace\codigo-sigi-hidalgo\procu3\procu3\nsjp-dto" />
         </SvnCopyRootSimple>
         <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="C:\workspace\procu3\nsjp-mail" />
-          <option name="myCopyRoot" value="C:\workspace\procu3\nsjp-mail" />
+          <option name="myVcsRoot" value="C:\workspace\codigo-sigi-hidalgo\procu3\procu3\nsjp-mail" />
+          <option name="myCopyRoot" value="C:\workspace\codigo-sigi-hidalgo\procu3\procu3\nsjp-mail" />
         </SvnCopyRootSimple>
         <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="C:\workspace\procu3\nsjp-modelo" />
-          <option name="myCopyRoot" value="C:\workspace\procu3\nsjp-modelo" />
+          <option name="myVcsRoot" value="C:\workspace\codigo-sigi-hidalgo\procu3\procu3\nsjp-modelo" />
+          <option name="myCopyRoot" value="C:\workspace\codigo-sigi-hidalgo\procu3\procu3\nsjp-modelo" />
         </SvnCopyRootSimple>
         <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="C:\workspace\procu3\nsjp-persistencia" />
-          <option name="myCopyRoot" value="C:\workspace\procu3\nsjp-persistencia" />
+          <option name="myVcsRoot" value="C:\workspace\codigo-sigi-hidalgo\procu3\procu3\nsjp-persistencia" />
+          <option name="myCopyRoot" value="C:\workspace\codigo-sigi-hidalgo\procu3\procu3\nsjp-persistencia" />
         </SvnCopyRootSimple>
         <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="C:\workspace\procu3\nsjp-servicios-api" />
-          <option name="myCopyRoot" value="C:\workspace\procu3\nsjp-servicios-api" />
+          <option name="myVcsRoot" value="C:\workspace\codigo-sigi-hidalgo\procu3\procu3\nsjp-servicios-api" />
+          <option name="myCopyRoot" value="C:\workspace\codigo-sigi-hidalgo\procu3\procu3\nsjp-servicios-api" />
         </SvnCopyRootSimple>
         <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="C:\workspace\procu3\nsjp-servicios-impl" />
-          <option name="myCopyRoot" value="C:\workspace\procu3\nsjp-servicios-impl" />
+          <option name="myVcsRoot" value="C:\workspace\codigo-sigi-hidalgo\procu3\procu3\nsjp-servicios-impl" />
+          <option name="myCopyRoot" value="C:\workspace\codigo-sigi-hidalgo\procu3\procu3\nsjp-servicios-impl" />
         </SvnCopyRootSimple>
         <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="C:\workspace\procu3\nsjp-web" />
-          <option name="myCopyRoot" value="C:\workspace\procu3\nsjp-web" />
+          <option name="myVcsRoot" value="C:\workspace\codigo-sigi-hidalgo\procu3\procu3\nsjp-web" />
+          <option name="myCopyRoot" value="C:\workspace\codigo-sigi-hidalgo\procu3\procu3\nsjp-web" />
         </SvnCopyRootSimple>
         <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="C:\workspace\procu3\nsjp-ws" />
-          <option name="myCopyRoot" value="C:\workspace\procu3\nsjp-ws" />
+          <option name="myVcsRoot" value="C:\workspace\codigo-sigi-hidalgo\procu3\procu3\nsjp-ws" />
+          <option name="myCopyRoot" value="C:\workspace\codigo-sigi-hidalgo\procu3\procu3\nsjp-ws" />
         </SvnCopyRootSimple>
         <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="C:\workspace\procu3\nsjp-wsclient" />
-          <option name="myCopyRoot" value="C:\workspace\procu3\nsjp-wsclient" />
+          <option name="myVcsRoot" value="C:\workspace\codigo-sigi-hidalgo\procu3\procu3\nsjp-wsclient" />
+          <option name="myCopyRoot" value="C:\workspace\codigo-sigi-hidalgo\procu3\procu3\nsjp-wsclient" />
         </SvnCopyRootSimple>
       </list>
     </option>
@@ -1139,11 +982,13 @@
       <workItem from="1426868389915" duration="3176000" />
       <workItem from="1427126544682" duration="873000" />
       <workItem from="1427303615706" duration="608000" />
+      <workItem from="1427742813862" duration="2277000" />
+      <workItem from="1427745178573" duration="707000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="408867000" />
+    <option name="totallyTimeSpent" value="411851000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -1166,39 +1011,39 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36601308" sideWeight="0.39485627" order="0" side_tool="true" content_ui="tabs" x="9" y="298" width="1366" height="209" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Struts Assistant" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2602118" sideWeight="0.4969819" order="3" side_tool="false" content_ui="combo" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25718608" sideWeight="0.5012407" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962178" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962178" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25718608" sideWeight="0.5030181" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.40359476" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34150326" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.37254903" sideWeight="0.6051437" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2602118" sideWeight="0.4969819" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25718608" sideWeight="0.5012407" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25718608" sideWeight="0.5030181" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.40359476" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34150326" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.37254903" sideWeight="0.6051437" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32913387" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1240,41 +1085,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/caso/impl/AsignarNumeroCasoServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1514" max-vertical-offset="2414">
-          <caret line="141" column="57" selection-start-line="141" selection-start-column="8" selection-end-line="141" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarDenuncianteView.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="8246" max-vertical-offset="18258">
-          <caret line="507" column="19" selection-start-line="507" selection-start-column="19" selection-end-line="507" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarTiempoEspecificamente.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2108">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarTiempoLapso.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.1153846" vertical-offset="4381" max-vertical-offset="4811">
-          <caret line="264" column="63" selection-start-line="264" selection-start-column="36" selection-end-line="264" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarDomicilioView.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="28711" max-vertical-offset="34068">
-          <caret line="1705" column="12" selection-start-line="1705" selection-start-column="12" selection-end-line="1705" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarProbableResponsableView.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-89.785324" vertical-offset="54577" max-vertical-offset="55998">
@@ -1450,13 +1260,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/solicitud/action/SolicitarAudienciaAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="7259" max-vertical-offset="15266">
-          <caret line="513" column="4" selection-start-line="513" selection-start-column="4" selection-end-line="513" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/solicitud/impl/EnviarSolicitudDeAudienciaServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="715" max-vertical-offset="2193">
@@ -1552,17 +1355,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.68126094" vertical-offset="26607" max-vertical-offset="57868">
           <caret line="1669" column="41" selection-start-line="1669" selection-start-column="41" selection-end-line="1669" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nsjp-web/src/main/webapp/js/solicitarAudiencia.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25569177" vertical-offset="143" max-vertical-offset="4199">
-          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="50" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1570,7 +1362,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="7.922936" vertical-offset="663" max-vertical-offset="8891">
           <caret line="293" column="53" selection-start-line="293" selection-start-column="38" selection-end-line="293" selection-end-column="53" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1578,7 +1369,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.22018349" vertical-offset="1495" max-vertical-offset="2125">
           <caret line="95" column="13" selection-start-line="95" selection-start-column="13" selection-end-line="95" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1586,7 +1376,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-2.493578" vertical-offset="1359" max-vertical-offset="1904">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1594,14 +1383,63 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-12.873395" vertical-offset="17437" max-vertical-offset="19057">
           <caret line="613" column="25" selection-start-line="613" selection-start-column="25" selection-end-line="613" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/atencionTempranaPenal/action/AtencionTempranaPenalAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3756906" vertical-offset="2091" max-vertical-offset="105451">
+          <caret line="131" column="58" selection-start-line="131" selection-start-column="58" selection-end-line="131" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/solicitud/action/SolicitarAudienciaAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="21.69337" vertical-offset="868" max-vertical-offset="16456">
+          <caret line="513" column="4" selection-start-line="513" selection-start-column="4" selection-end-line="513" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsjp-mail/src/main/java/mx/gob/segob/nsjp/persistencia/correo/CorreoDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.408" vertical-offset="0" max-vertical-offset="375">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/solicitud/action/ConsultarSolicitudesPJEAAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.859116" vertical-offset="359" max-vertical-offset="33371">
+          <caret line="100" column="13" selection-start-line="100" selection-start-column="13" selection-end-line="100" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsjp-mail/src/main/java/mx/gob/segob/nsjp/delegate/correo/Impl/CorreoDelegateImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="884">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsjp-mail/src/main/java/mx/gob/segob/nsjp/persistencia/confcorreo/Impl/ConfCorreoDAOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1547">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nsjp-mail/src/main/java/mx/gob/segob/nsjp/persistencia/funcionarioExternoCorreo/Impl/FuncionarioExternoCorreoDAOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14554794" vertical-offset="0" max-vertical-offset="584">
+          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarMenuIntermedio.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-39.431194" vertical-offset="82673" max-vertical-offset="104482">
-          <caret line="3599" column="73" selection-start-line="3599" selection-start-column="73" selection-end-line="3599" selection-end-column="73" />
+        <state vertical-scroll-proportion="0.63722396" vertical-offset="82673" max-vertical-offset="104482">
+          <caret line="4875" column="75" selection-start-line="4875" selection-start-column="75" selection-end-line="4875" selection-end-column="75" />
           <folding>
             <marker date="1426266161664" expanded="true" signature="57720:57735" placeholder="..." />
             <marker date="1426266161664" expanded="true" signature="71051:71065" placeholder="..." />
@@ -1692,7 +1530,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>nsjp-servicios-impl</last-edited>
+          <last-edited>nsjp-web</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

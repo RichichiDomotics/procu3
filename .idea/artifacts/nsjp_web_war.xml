@@ -3,11 +3,6 @@
     <output-path>$PROJECT_DIR$/nsjp-web/target</output-path>
     <root id="archive" name="nsjp-web.war">
       <element id="artifact" artifact-name="nsjp-web:war exploded" />
-      <element id="directory" name="WEB-INF">
-        <element id="directory" name="classes">
-          <element id="module-output" name="nsjp-mail" />
-        </element>
-      </element>
     </root>
   </artifact>
 </component>
