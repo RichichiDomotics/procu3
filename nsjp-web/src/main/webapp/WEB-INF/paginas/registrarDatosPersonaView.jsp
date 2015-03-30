@@ -265,6 +265,24 @@ DD P {
 			// 1 es denunciante o querellante,depende de la bandera anterior,0 es probable responsable
 			banderaDenuncianteQuerellante=0;
 			
+			function obtenerDelitosDenunciados(){
+			var arrayIDs = new Array() ;
+			var arrayIDs = jQuery("#gridDetalleFrmPrincipal").getDataIDs();
+			var arrayDelitosDenunciados;
+			arrayDelitosDenunciados="";		
+			
+			for (i=0;i<arrayIDs.length;i++){				
+				var row = jQuery("#gridDetalleFrmPrincipal").jqGrid('getRowData',arrayIDs[i]);
+				if(arrayDelitosDenunciados.length>0){					
+					arrayDelitosDenunciados = arrayDelitosDenunciados + "," + row.DelitoId;
+				}
+				else{
+					arrayDelitosDenunciados = row.DelitoId;
+				}
+			}
+			return arrayDelitosDenunciados;
+		}
+			
 			//Lanzamos la consulta de los documentos
 			jQuery("#gridDetalleFrmPrincipal").jqGrid({
 				url:'<%=request.getContextPath()%>/consultarDocumentos.do?idExpedienteop='+idExpedienteTempAdmin+'&visorDoc='+visorDoc, 
@@ -290,6 +308,14 @@ DD P {
 				height:250,
 				sortname: 'turno',
 				viewrecords: true,
+				afterInsertRow:function(xml){
+					idsDelitos=obtenerDelitosDenunciados();
+					if(idsDelitos!=""){
+						$('.tabTabsDocs a.lleno').css('background-color','#DF0101');
+						$('.tabTabsDocs a.lleno').css('color','#FFFFFF');
+					}
+					return true;					
+				},
 				id: 'divgrid',
 				// se cambia el onselect por uniformidad en los eventos de los grids
 				ondblClickRow: function(id){
@@ -696,10 +722,10 @@ DD P {
 							{url:'<%=request.getContextPath()%>/consultarDocumentos.do?idExpedienteop='+idExpedienteTempAdmin+'&visorDoc='+visorDoc,
 							datatype: "xml" });
 						 $("#gridDetalleFrmPrincipal").trigger("reloadGrid"); 
-				if(jQuery("tr", "#gridDetalleFrmPrincipal").length >= 0){
+				/*if(jQuery("tr", "#gridDetalleFrmPrincipal").length >= 0){
 					$('.tabTabsDocs a.lleno').css('background-color','#DF0101');
 					$('.tabTabsDocs a.lleno').css('color','#FFFFFF');
-				}
+				}*/
 				  // Se marcan las solicitudes ya asociadas al expediente
 				  marcaTiposDeSolicitudes();
 			}

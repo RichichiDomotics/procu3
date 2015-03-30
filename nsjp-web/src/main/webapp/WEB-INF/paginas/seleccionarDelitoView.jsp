@@ -120,18 +120,20 @@
     	var numeroExpedienteId=0;
     	var firstGridDelitos=true;
     	var deshabilitarCampos = window.parent.deshabilitarCamposPM;
-    	var esCoordinadorAmpGeneral = <%=esCoordinadorAmpGeneral%>; 
-    	
+    	var esCoordinadorAmpGeneral = <%=esCoordinadorAmpGeneral%>;
+		var totalDelitos = jQuery("#gridDelitosAgraviados").getDataIDs();
 		$(document).ready(function(){
 			if(deshabilitarCampos == true){
 				$("#btnGuardarDelitosAg").hide();
 				$("#pasar").hide();
 				$("#pasarD").hide();
 			}
-			if(jQuery("tr", "#gridDelitosAgraviados").length >= 0){
+			//if(jQuery("tr.jqgrow", "#gridDelitosAgraviados").length > 0){
+			/*alert(totalDelitos);
+			if(totalDelitos.length != 0){
 				$('.tabTabsDelito a.lleno').css('background-color','#DF0101');
 				$('.tabTabsDelito a.lleno').css('color','#FFFFFF');
-			}
+			}*/
 			idExpedienteop='<%= request.getParameter("idExpedienteop")%>';
 			numeroExpedienteId='<%= request.getParameter("idNumeroExpediente")%>';
 			
@@ -217,7 +219,11 @@
 				sortname: 'Clave',
 				viewrecords: true,
 				afterInsertRow:function(xml){
-					idsDelitos=obtenerDelitosDenunciados();					
+					idsDelitos=obtenerDelitosDenunciados();
+					if(idsDelitos!=""){
+						$('.tabTabsDelito a.lleno').css('background-color','#DF0101');
+						$('.tabTabsDelito a.lleno').css('color','#FFFFFF');
+					}
 					return true;					
 				},			
 				sortorder: "desc"
