@@ -984,12 +984,12 @@
       <workItem from="1427303615706" duration="608000" />
       <workItem from="1427742813862" duration="2277000" />
       <workItem from="1427745178573" duration="707000" />
-      <workItem from="1427913091182" duration="792000" />
+      <workItem from="1427913091182" duration="1239000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="412643000" />
+    <option name="totallyTimeSpent" value="413090000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -1530,7 +1530,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>nsjp-web</last-edited>
+          <last-edited>nsjp</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
